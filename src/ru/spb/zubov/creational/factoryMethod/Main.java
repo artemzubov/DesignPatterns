@@ -1,5 +1,6 @@
 package ru.spb.zubov.creational.factoryMethod;
 
+//https://javarush.ru/groups/posts/2372--patternih-proektirovanija-factorymethod
 public class Main {
 
     public static void main(String[] args) {
